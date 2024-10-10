@@ -1,0 +1,21 @@
+body {
+    background-color: #F5F5F7; /* Light grey */
+    color: #181C14; /* Dark text */
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px; /* Adjust the font size as needed */
+    color: #181C14; /* Ensure link color is dark */
+}
+
+.container {
+    border-radius: 5px; /* Optional: Add some border-radius for a softer look */
+    padding: 20px;
+    margin-top: 50px; /* Adjust the margin as needed */
+}
+
+.cdClass {
+    background-color: #4A4947; /* Dark grey for specific class */
+    border-radius: 10px;
+    color: #fff; /* Text color */
+}
