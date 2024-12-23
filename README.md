@@ -1,6 +1,6 @@
 # jobAppBackendPoject
 
-# Job Portal Web Application
+# Secured Job Portal Web Application
 
 This is a **Job Portal Web Application** built using **JSP**, **Spring Boot**, **Bootstrap**, and **CSS**. It allows users to view all jobs, add new jobs, and provides a clean, responsive UI with Bootstrap.
 
